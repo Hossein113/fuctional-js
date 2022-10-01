@@ -1,0 +1,20 @@
+p {
+    color: rgb(120, 179, 64);
+}
+
+.border {
+    border: 2px solid red;
+}
+div {
+    background-color: green;
+    color: white;
+    width: 1500px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+    padding: 30px;
+    text-align: left;
+    font-size: 20px;
+  }
+  
